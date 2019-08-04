@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [2.0.0](https://github.com/ssuperw/AABlurAlertController/tree/2.0.0) (2019-08-03)
+### Changed
+- Updated for Swift 5
+
 ## [1.2.1](https://github.com/anas10/AABlurAlertController/tree/1.2.1) (2017-07-06)
 ### Changed
 - Updated modern design
